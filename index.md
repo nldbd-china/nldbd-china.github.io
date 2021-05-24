@@ -59,7 +59,7 @@
 
 09:50-10:30 李刚, [0νββ 衰变中来⾃新物理的⻓程贡献](./talks/0521_Li.pdf)
 
-10:30-11:10 Photo, Coffee Break 
+10:30-11:10 [Photo](./photo/photo.md), Coffee Break 
 
 **Chair 白春林**
 
