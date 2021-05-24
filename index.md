@@ -70,6 +70,7 @@
 12:30-14:00 Lunch
 
 14:00-18:30 Free Discussion
+
 19:00 Banquet
 
 ### Saturday, May 22 
