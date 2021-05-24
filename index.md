@@ -41,7 +41,7 @@
 
 16:20-17:00 ⻰炳蔚, [Renormalization and power counting in chiral nuclear effective field theory](./talks/0520_Long.pdf)
 
-17:00-17:40 李⽟峰, [Neutrinoless double beta decay and sterile neutrinos](./talks/0520_Li.pdf)
+17:00-17:40 李⽟峰, [Neutrinoless double beta decay and sterile neutrinos](./talks/0520_Li.ppt)
 
 17:40-18:05 王亚坤, [0νββ 衰变核矩阵元的组态相互作⽤协变密度泛函研究](./talks/0520_WangYK.pdf)
 
