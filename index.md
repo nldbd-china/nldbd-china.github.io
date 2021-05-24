@@ -11,28 +11,42 @@
 08:40-08:50 中法核学院王为院长, [中⼭⼤学⾼能物理学科情况汇报](./talks/0520_Wang.pdf)
             
 
-**Chair: 张肇⻄ **
+**Chair: 张肇⻄**
 
 08:50-09:50 邢志忠, [Majorana neutrinos hidden in neutrinoless double-beta (0νββ) decays](./talks/0520_Xing.ppt)
+
 09:50-12:20 Coffee Break 
 
-Chair: 王为 
+**Chair: 王为**
+
 10:20-11:00 仇浩, NvDEx 实验进展和计划
+
 11:00-11:40 杨丽桃, 76Ge-0νββ 实验综述和CDEX-300ν 
+
 11:40-12:20 房栋梁, 0νββ 衰变矩阵元研究进展综述
+
 12:20 Lunch 
 
-Chair ⾼早春
+**Chair ⾼早春**
+
 14:00-14:40 耿⽴升, 相对论⼿征有效理论对核⼒的描述 
+
 14:40-15:20 赵鹏巍, Toward a unified description of nuclei
+
 15:20-16:00 吕炳楠, 原⼦核从头计算
+
 16:00-16:20 Coffee Break 
 
-Chair: 廖益
+**Chair: 廖益**
+
 16:20-17:00 ⻰炳蔚, Renormalization and power counting in chiral nuclear effective field theory 
+
 17:00-17:40 李⽟峰, Neutrinoless double beta decay and sterile neutrinos
+
 17:40-18:05 王亚坤, 0νββ 衰变核矩阵元的组态相互作⽤协变密度泛函研究
+
 18:05-18:30 王昊琳, 轻⼦数破坏过程的有效场论研究
+
 18:30 Dinner
 
 Friday, May 21 
