@@ -35,3 +35,16 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
+**Thursday, May 20** 
+
+08:30-08:40 物理与天文学院涂良成院长, 欢迎辞
+
+**Chair: 张鹏鸣**
+ 
+08:40-08:50 中法核学院王为院长, [中⼭⼤学⾼能物理学科情况汇报](./0520_Wang.pdf)
+           
+
+
