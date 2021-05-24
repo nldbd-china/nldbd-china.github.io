@@ -31,15 +31,15 @@
 
 14:00-14:40 耿⽴升, 相对论⼿征有效理论对核⼒的描述 
 
-14:40-15:20 赵鹏巍, [Toward a unified description of nuclei]((./talks/0520_Zhao.pdf))
+14:40-15:20 赵鹏巍, [Toward a unified description of nuclei](./talks/0520_Zhao.pdf)
 
-15:20-16:00 吕炳楠, [原⼦核从头计算]((./talks/0520_Lu.pdf))
+15:20-16:00 吕炳楠, [原⼦核从头计算](./talks/0520_Lu.pdf)
 
 16:00-16:20 Coffee Break 
 
 **Chair: 廖益**
 
-16:20-17:00 ⻰炳蔚, [Renormalization and power counting in chiral nuclear effective field theory]((./talks/0520_Long.pdf)) 
+16:20-17:00 ⻰炳蔚, [Renormalization and power counting in chiral nuclear effective field theory](./talks/0520_Long.pdf)
 
 17:00-17:40 李⽟峰, [Neutrinoless double beta decay and sterile neutrinos](./talks/0520_Li.pdf)
 
