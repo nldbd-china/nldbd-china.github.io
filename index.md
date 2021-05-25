@@ -15,7 +15,7 @@
 
 08:50-09:50 邢志忠, [Majorana neutrinos hidden in neutrinoless double-beta (0νββ) decays](./talks/0520_Xing.pdf)
 
-09:50-12:20 Coffee Break 
+09:50-10:20 Coffee Break 
 
 **Chair: 王为**
 
