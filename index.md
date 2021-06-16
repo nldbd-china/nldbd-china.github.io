@@ -23,15 +23,15 @@
 
 11:00-11:40 杨丽桃, [76Ge-0νββ 实验综述和CDEX-300ν](./talks/0520_Yang.pdf)
 
-11:40-12:20 房栋梁, [0νββ 衰变矩阵元研究进展综述](./talks/0520_Fang.pdf)
+11:40-12:20 房栋梁, [0νββ 衰变矩阵元研究进展综述](./talks/0520_Fang.pdf), ([record](https://www.bilibili.com/video/BV18f4y1t7Wq)) 
 
 12:20 Lunch 
 
 **Chair: ⾼早春**
 
-14:00-14:40 耿⽴升, 相对论⼿征有效理论对核⼒的描述 
+14:00-14:40 耿⽴升, 相对论⼿征有效理论对核⼒的描述 ([record](https://www.bilibili.com/video/BV1Dg411g7Du))
 
-14:40-15:20 赵鹏巍, [Toward a unified description of nuclei](./talks/0520_Zhao.pdf)
+14:40-15:20 赵鹏巍, [Toward a unified description of nuclei](./talks/0520_Zhao.pdf), ([record](https://www.bilibili.com/video/BV1fy4y1u7xi))
 
 15:20-16:00 吕炳楠, [原⼦核从头计算](./talks/0520_Lu.pdf)
 
@@ -41,7 +41,7 @@
 
 16:20-17:00 ⻰炳蔚, [Renormalization and power counting in chiral nuclear effective field theory](./talks/0520_Long.pdf)
 
-17:00-17:40 李⽟峰, [Neutrinoless double beta decay and sterile neutrinos](./talks/0520_Li.pdf)
+17:00-17:40 李⽟峰, [Neutrinoless double beta decay and sterile neutrinos](./talks/0520_Li.pdf), ([record](https://www.bilibili.com/video/BV1wf4y1h7Xc))
 
 17:40-18:05 王亚坤, [0νββ 衰变核矩阵元的组态相互作⽤协变密度泛函研究](./talks/0520_WangYK.pdf)
 
@@ -108,7 +108,7 @@
 
 **Chair: 李宁**
 
-16:20-17:00 焦⻓峰, [基于哈密顿量的⽣成坐标⽅法对0νββ 衰变的研究](./talks/0522_Jiao.pdf)
+16:20-17:00 焦⻓峰, [基于哈密顿量的⽣成坐标⽅法对0νββ 衰变的研究](./talks/0522_Jiao.pdf), ([record](https://www.bilibili.com/video/BV1C64y1X7PE))
 
 17:00-17:40 王⻰军, [⼿征两体流对0νββ 衰变的影响](./talks/0522_WangLG.pdf)
 
