@@ -13,7 +13,7 @@
 
 **Chair: 张肇⻄**
 
-08:50-09:50 邢志忠, [Majorana neutrinos hidden in neutrinoless double-beta (0νββ) decays](./talks/0520_Xing.pdf)
+08:50-09:50 邢志忠, [Majorana neutrinos hidden in neutrinoless double-beta (0νββ) decays](./talks/0520_Xing.pdf) [record](https://www.bilibili.com/video/BV1Zw411d7Lg/)
 
 09:50-10:20 Coffee Break 
 
