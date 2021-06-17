@@ -122,17 +122,17 @@
 
 08:30-09:10 ⾼早春, [投影后变分⽅法及其应⽤](./talks/0523_Gao.ppt), ([record](https://space.bilibili.com/1360304496?spm_id_from=333.788.b_765f7570696e666f.2)) 
 
-09:10-09:50 李剑, 协变密度泛函理论对原⼦核磁性质的研究(./talks/0523_Li.pdf), ([record](https://space.bilibili.com/1360304496?spm_id_from=333.788.b_765f7570696e666f.2)) 
+09:10-09:50 李剑, [协变密度泛函理论对原⼦核磁性质的研究](./talks/0523_Li.pdf), ([record](https://space.bilibili.com/1360304496?spm_id_from=333.788.b_765f7570696e666f.2)) 
 
-09:50-10:15 耿晶, [轴对称形变的相对论HFB理论](./talks/0523_Geng.pdf), ([record]()) 
+09:50-10:15 耿晶, [轴对称形变的相对论HFB理论](./talks/0523_Geng.pdf), ([record](https://www.bilibili.com/video/BV1XB4y1M7pA)) 
 
 10:15-10:35 Coffee Break 
 
 **Chair: 牛一斐**
 
-10:35-11:15 庞⻰刚, [机器学习在原⼦核质量预测与核衰变中的应⽤](./talks/0523_Pang.pdf) 
+10:35-11:15 庞⻰刚, [机器学习在原⼦核质量预测与核衰变中的应⽤](./talks/0523_Pang.pdf), ([record](https://www.bilibili.com/video/BV1Dv411p712)) 
 
-11:15-11:55 刘朗, [原⼦核第⼀性原理蒙特卡洛壳模型](./talks/0523_Liu.pdf) 
+11:15-11:55 刘朗, [原⼦核第⼀性原理蒙特卡洛壳模型](./talks/0523_Liu.pdf), ([record](https://www.bilibili.com/video/BV1XK4y1u7JV)) 
 
 11:55-12:10 尧江明， [总结、致谢](./talks/0523_Yao.pdf)  
 
