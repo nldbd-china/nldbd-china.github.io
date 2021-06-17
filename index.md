@@ -33,19 +33,19 @@
 
 14:40-15:20 赵鹏巍, [Toward a unified description of nuclei](./talks/0520_Zhao.pdf), ([record](https://www.bilibili.com/video/BV1fy4y1u7xi))
 
-15:20-16:00 吕炳楠, [原⼦核从头计算](./talks/0520_Lu.pdf)
+15:20-16:00 吕炳楠, [原⼦核从头计算](./talks/0520_Lu.pdf), ([record](https://www.bilibili.com/video/BV1S64y1r79o))
 
 16:00-16:20 Coffee Break 
 
 **Chair: 廖益**
 
-16:20-17:00 ⻰炳蔚, [Renormalization and power counting in chiral nuclear effective field theory](./talks/0520_Long.pdf)
+16:20-17:00 ⻰炳蔚, [Renormalization and power counting in chiral nuclear effective field theory](./talks/0520_Long.pdf), ([record](https://www.bilibili.com/video/BV1SQ4y197zz))
 
 17:00-17:40 李⽟峰, [Neutrinoless double beta decay and sterile neutrinos](./talks/0520_Li.pdf), ([record](https://www.bilibili.com/video/BV1wf4y1h7Xc))
 
-17:40-18:05 王亚坤, [0νββ 衰变核矩阵元的组态相互作⽤协变密度泛函研究](./talks/0520_WangYK.pdf)
+17:40-18:05 王亚坤, [0νββ 衰变核矩阵元的组态相互作⽤协变密度泛函研究](./talks/0520_WangYK.pdf), ([record](https://www.bilibili.com/video/BV1tg411g7Y7))
 
-18:05-18:30 王昊琳, [轻⼦数破坏过程的有效场论研究](./talks/0520_WangHL.pdf)
+18:05-18:30 王昊琳, [轻⼦数破坏过程的有效场论研究](./talks/0520_WangHL.pdf), ([record](https://www.bilibili.com/video/BV1aB4y1M7P1))
 
 18:30 Dinner
 
@@ -77,19 +77,19 @@
 
 **Chair: 肖翔**
 
-08:30-09:10 温良剑, [JUNO-0νββ 实验规划](./talks/0522_Wen.pdf)
+08:30-09:10 温良剑, [JUNO-0νββ 实验规划](./talks/0522_Wen.pdf), ([record](https://www.bilibili.com/video/BV1D54y1G7CN))
 
-09:10-09:50 薛明萱, [锦屏低温晶体量热器0νββ实验研究](./talks/0522_Xue.pdf)
+09:10-09:50 薛明萱, [锦屏低温晶体量热器0νββ实验研究](./talks/0522_Xue.pdf), ([record](https://www.bilibili.com/video/BV1zf4y187Az))
 
-09:50-10:30 韩柯, [PandaX-III-0νββ 衰变进展](./talks/0522_Han.pdf)
+09:50-10:30 韩柯, [PandaX-III-0νββ 衰变进展](./talks/0522_Han.pdf), ([record](https://www.bilibili.com/video/BV1P64y1978L))
 
 10:30-10:50 Coffee Break 
 
 **Chair: 郭志辉**
 
-10:50-11:30 于江浩, [中微⼦质量, 0νββ 与有效场理论](./talks/0522_Yu.pdf)
+10:50-11:30 于江浩, [中微⼦质量, 0νββ 与有效场理论](./talks/0522_Yu.pdf), ([record](https://www.bilibili.com/video/BV1Vv411W7Y7))
 
-11:30-12:10 冯旭, [格点QCD 计算0νββ 衰变](./talks/0522_Feng.pdf)
+11:30-12:10 冯旭, [格点QCD 计算0νββ 衰变](./talks/0522_Feng.pdf), ([record](https://www.bilibili.com/video/BV14X4y1A7D1))
 
 12:10-12:35 杨⾦磊, [B-LSSM 和LRSM 中的0νββ衰变](./talks/0522_Yang.pdf)
 
