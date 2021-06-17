@@ -91,18 +91,18 @@
 
 11:30-12:10 冯旭, [格点QCD 计算0νββ 衰变](./talks/0522_Feng.pdf), ([record](https://www.bilibili.com/video/BV14X4y1A7D1))
 
-12:10-12:35 杨⾦磊, [B-LSSM 和LRSM 中的0νββ衰变](./talks/0522_Yang.pdf)
+12:10-12:35 杨⾦磊, [B-LSSM 和LRSM 中的0νββ衰变](./talks/0522_Yang.pdf), ([record](https://www.bilibili.com/video/BV1KM4y1u7Pi))
 
 12:35 Lunch
 
 
 **Chair: 仇浩**
 
-14:00-14:40 李⾼嵩, [nEXO 实验进展](./talks/0522_Li.pdf)
+14:00-14:40 李⾼嵩, [nEXO 实验进展](./talks/0522_Li.pdf), ([record](https://www.bilibili.com/video/BV1zK4y1u7CA))
 
-14:40-15:20 王少博 , [利⽤PandaX-4T 探测器寻找136Xe 0νββ 衰变](./talks/0522_WangSB.pdf)
+14:40-15:20 王少博 , [利⽤PandaX-4T 探测器寻找136Xe 0νββ 衰变](./talks/0522_WangSB.pdf)，([record](https://www.bilibili.com/video/BV1Vy4y1g724))
 
-15:20-16:00 安振东, [0νββ 衰变实验中⼦诱发的本底反应截⾯的⾼精度测量研究](./talks/0522_An.pdf)
+15:20-16:00 安振东, [0νββ 衰变实验中⼦诱发的本底反应截⾯的⾼精度测量研究](./talks/0522_An.pdf), ([record](https://www.bilibili.com/video/BV1sf4y187Q8))
 
 16:00-16:20 Coffee Break 
 
@@ -110,9 +110,9 @@
 
 16:20-17:00 焦⻓峰, [基于哈密顿量的⽣成坐标⽅法对0νββ 衰变的研究](./talks/0522_Jiao.pdf), ([record](https://www.bilibili.com/video/BV1C64y1X7PE))
 
-17:00-17:40 王⻰军, [⼿征两体流对0νββ 衰变的影响](./talks/0522_WangLJ.pdf)
+17:00-17:40 王⻰军, [⼿征两体流对0νββ 衰变的影响](./talks/0522_WangLJ.pdf), ([record](https://www.bilibili.com/video/BV16g411g7J6))
 
-17:40-18:20 张永超, [左右对称模型中的0νββ 衰变率](./talks/0522_Zhang.pdf)
+17:40-18:20 张永超, [左右对称模型中的0νββ 衰变率](./talks/0522_Zhang.pdf), ([record](https://www.bilibili.com/video/BV1o54y1G7u5))
 
 18:20 Dinner
 
