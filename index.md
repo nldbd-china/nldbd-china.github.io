@@ -120,11 +120,11 @@
 
 **Chair: 赵鹏巍**
 
-08:30-09:10 ⾼早春, [投影后变分⽅法及其应⽤](./talks/0523_Gao.ppt) 
+08:30-09:10 ⾼早春, [投影后变分⽅法及其应⽤](./talks/0523_Gao.ppt), ([record](https://space.bilibili.com/1360304496?spm_id_from=333.788.b_765f7570696e666f.2)) 
 
-09:10-09:50 李剑, 协变密度泛函理论对原⼦核磁性质的研究 
+09:10-09:50 李剑, 协变密度泛函理论对原⼦核磁性质的研究(./talks/0523_Li.pdf), ([record](https://space.bilibili.com/1360304496?spm_id_from=333.788.b_765f7570696e666f.2)) 
 
-09:50-10:15 耿晶, [轴对称形变的相对论HFB理论](./talks/0523_Geng.pdf) 
+09:50-10:15 耿晶, [轴对称形变的相对论HFB理论](./talks/0523_Geng.pdf), ([record]()) 
 
 10:15-10:35 Coffee Break 
 
