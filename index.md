@@ -134,6 +134,6 @@
 
 11:15-11:55 刘朗, [原⼦核第⼀性原理蒙特卡洛壳模型](./talks/0523_Liu.pdf), ([record](https://www.bilibili.com/video/BV1XK4y1u7JV)) 
 
-11:55-12:10 尧江明， [总结、致谢](./talks/0523_Yao.pdf)  
+11:55-12:10 尧江明， [总结、致谢](./talks/0523_Yao.pdf)，([record](https://www.bilibili.com/video/BV1Sf4y187u9))  
 
 12:10- Lunch
