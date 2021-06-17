@@ -63,9 +63,9 @@
 
 **Chair: 白春林**
 
-11:10-11:50 牛一斐, [基于准粒⼦⽆规相位近似的2νββ 衰变计算](./talks/0521_Niu.pdf), ([record]())
+11:10-11:50 牛一斐, [基于准粒⼦⽆规相位近似的2νββ 衰变计算](./talks/0521_Niu.pdf), ([record](https://www.bilibili.com/video/BV1FK4y1G7FP))
 
-11:50-12:30 王小保, 轻核中0νββ 衰变矩阵元计算, ([record]())
+11:50-12:30 王小保, 轻核中0νββ 衰变矩阵元计算, ([record](https://www.bilibili.com/video/BV1Pf4y1h7nW))
 
 12:30-14:00 Lunch
 
