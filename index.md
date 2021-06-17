@@ -29,7 +29,7 @@
 
 **Chair: ⾼早春**
 
-14:00-14:40 耿⽴升, 相对论⼿征有效理论对核⼒的描述 ([record](https://www.bilibili.com/video/BV1Dg411g7Du))
+14:00-14:40 耿⽴升, 相对论⼿征有效理论对核⼒的描述, ([record](https://www.bilibili.com/video/BV1Dg411g7Du))
 
 14:40-15:20 赵鹏巍, [Toward a unified description of nuclei](./talks/0520_Zhao.pdf), ([record](https://www.bilibili.com/video/BV1fy4y1u7xi))
 
