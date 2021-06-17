@@ -57,7 +57,7 @@
 
 09:10-09:50 尧江明, [0νββ 衰变矩阵元的从头计算](./talks/0521_Yao.pdf), ([record](https://www.bilibili.com/video/BV1Gq4y1L7L1))
 
-09:50-10:30 李刚, [0νββ 衰变中来⾃新物理的⻓程贡献](./talks/0521_Li.pdf), ([record]())
+09:50-10:30 李刚, [0νββ 衰变中来⾃新物理的⻓程贡献](./talks/0521_Li.pdf), ([record](https://www.bilibili.com/video/BV1H64y1r7Ru))
 
 10:30-11:10 [Photo](./photo/photo.md), Coffee Break 
 
